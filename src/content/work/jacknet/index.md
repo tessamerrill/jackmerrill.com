@@ -1,20 +1,20 @@
 ---
-title: JackNet
+title: Tessarackt
 description: "My various servers and services I host in my dorm room."
 ---
 
-I host a variety of servers and services on my server, JackNet. These include:
+I host a variety of servers and services on my server, Tessarackt. These include:
 
-- [Authentication](https://auth.jackmerrill.com) - A Casdoor server I use for my other services.
+- [Authentication](https://auth.tessa.sh) - A Casdoor server I use for my other services.
 - Home Assistant - Connected to my various smart home devices. Likely have the "smartest" dorm on campus.
 - Jellyfin - A media server for my media.
 - Navidrome - Self-hosted music streaming server.
-- [Gitea](https://git.jackmerrill.com) - A self-hosted Git server.
+- [Gitea](https://git.tessa.sh) - A self-hosted Git server.
 - Various Minecraft Servers - I host a variety of Minecraft servers for my friends and I to play on.
 - Bitwarden - A self-hosted password manager.
 - Speedtest Tracker - A speedtest tracker that runs every hour and logs the results. Mainly to detect network issues at my college.
 - Lubelog - Car maintenance tracker.
-- [Family Guy Discord Bot](https://discord.com/oauth2/authorize?client_id=839624581055774741&permissions=2048&scope=bot%20applications.commands) - A bot that posts random Family Guy quotes in Discord. \[[GitHub](https://github.com/jackmerrill/FamilyGuyQuotesBot)\]
+- [Family Guy Discord Bot](https://discord.com/oauth2/authorize?client_id=839624581055774741&permissions=2048&scope=bot%20applications.commands) - A bot that posts random Family Guy quotes in Discord. \[[GitHub](https://github.com/tessamerrill/FamilyGuyQuotesBot)\]
 
 | My Rack (15U):                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------- |

@@ -4,7 +4,7 @@ import type { APIRoute } from "astro";
 
 export const GET: APIRoute = async ({ params, request }) => {
   const res = await fetch(
-    "https://api.github.com/users/jackmerrill/events/public"
+    "https://api.github.com/users/tessamerrill/events/public"
   );
 
   const data = await res.json();
